@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Image](https://github.com/csuyangpeng/csuyangpeng/blob/master/main.jpeg?raw=true)](https://github.com/csuyangpeng)
+[![Imaage](https://github.com/csuyangpeng/csuyangpeng/blob/master/main.jpeg?raw=true)](https://github.com/csuyangpeng)
 
 
